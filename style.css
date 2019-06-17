@@ -1,0 +1,62 @@
+
+*
+{
+ font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+Body
+{
+background-color: #777;   
+}
+
+.Head
+{
+background-color: #ebebeb;
+padding: 20px;
+text-align: center;
+margin-bottom: 10px;
+}
+
+.Nav
+{
+ background-color: #ebebeb;
+ padding: 20px;
+ text-align: center; 
+ margin-bottom: 15px;   
+}
+
+
+.Sec1
+{
+    padding: 100px;
+    float: left;
+    width: 30%;
+    background-color: #ebebeb;
+    text-align: center;
+    margin-right: 15px;
+    margin-bottom:15px;
+    
+}
+
+.Sec2
+{
+    padding: 100px;
+    float: left;
+    width: 11%;
+    background-color: #ebebeb;
+    text-align: center;
+    margin-bottom:15px;
+
+    
+}
+
+footer
+{
+    clear: both;
+    align-self: auto;
+    background-color: #ebebeb;
+    padding: 20px;
+    text-align: center;
+    margin-top: 20px;  
+}
+
