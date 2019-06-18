@@ -6,7 +6,8 @@
 
 Body
 {
-background-color: #777;   
+background-color: #777;  
+margin-right:30px;  
 }
 
 .Head
@@ -28,9 +29,10 @@ margin-bottom: 10px;
 
 .Sec1
 {
+    
     padding: 100px;
     float: left;
-    width: 30%;
+    width: 40%;
     background-color: #ebebeb;
     text-align:center;
     margin-right: 15px;
@@ -42,7 +44,7 @@ margin-bottom: 10px;
 {
     padding: 100px;
     float: left;
-    width: 11%;
+    width: 20%;
     background-color: #ebebeb;
     text-align: center;
     margin-bottom:15px;
@@ -58,7 +60,7 @@ margin-bottom: 10px;
     background-color: #777; 
     text-align: center;
     height: 180px;
-    width: 580px;
+    width: 705px;
     top: 250px;
     left: -20px;
             
@@ -71,7 +73,7 @@ margin-bottom: 10px;
     background-color:#ebebeb; 
     text-align: center;
     height: 50px;
-    width: 540px;
+    width: 665px;
     top: 310px;
     left: 0px;
             
@@ -84,7 +86,7 @@ margin-bottom: 10px;
     background-color:#ebebeb; 
     text-align: center;
     height: 50px;
-    width: 540px;
+    width: 665px;
     top: 370px;
     left: 0px;
             
